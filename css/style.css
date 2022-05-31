@@ -1,0 +1,16 @@
+.image{
+    width: 500px;
+    height: auto;
+}
+
+#blue{
+    color: blue;
+}
+
+#second:hover{
+    color: goldenrod;
+}
+
+#link:hover{
+    font-size: 30px;
+}
